@@ -1,0 +1,10 @@
+7
+INVOKE main
+INVOKE sort
+READ sort#arr
+INVOKE merge
+READ merge#add
+READ sort#dff
+EXIT merge
+EXIT sort
+EXIT main
